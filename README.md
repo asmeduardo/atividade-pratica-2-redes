@@ -3,6 +3,7 @@
 Este é um sistema de comunicação desenvolvido para abrir e fechar uma cortina eletrônica com base na luminosidade do ambiente externo. O sistema é composto pelos componentes: ClienteSensor, ClienteAtuador, Servidor e TrataCliente.
 
 ![Diagrama do sistema](https://imagizer.imageshack.com/img924/241/oad7gj.png)
+
 **Figura 1:** Atores e comunicação entre eles.
 
 ## Funcionamento
